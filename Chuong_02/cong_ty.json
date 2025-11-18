@@ -1,0 +1,26 @@
+{
+  "ten_cong_ty": "Công ty TNHH Đất Việt",
+  "dia_chi": "abc Giải Phóng - Hà Nội",
+  "danh_sach_don_vi": [
+    {
+      "ten_don_vi": "Đơn vị A1",
+      "so_nhan_vien": 20
+    },
+    {
+      "ten_don_vi": "Đơn vị A2",
+      "so_nhan_vien": 15
+    },
+    {
+      "ten_don_vi": "Đơn vị A3",
+      "so_nhan_vien": 35
+    },
+    {
+      "ten_don_vi": "Đơn vị A4",
+      "so_nhan_vien": 10
+    },
+    {
+      "ten_don_vi": "Đơn vị A5",
+      "so_nhan_vien": 25
+    }
+  ]
+}
